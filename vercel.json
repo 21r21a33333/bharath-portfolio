@@ -1,18 +1,5 @@
 {
   "name": "gorthi-sai-bharath-portfolio",
   "version": 2,
-  "public": true,
-  "buildCommand": "",
-  "builds": [
-    {
-      "src": "index.html",
-      "use": "@vercel/static"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
-    }
-  ]
+  "public": true
 }
