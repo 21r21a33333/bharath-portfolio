@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .letter-s { font-family: Arial, sans-serif; font-size: 140px; font-weight: bold; fill: #a789d4; text-anchor: middle; dominant-baseline: middle; }
+    </style>
+  </defs>
+  <rect width="200" height="200" fill="#0a0e27" rx="20"/>
+  <text x="100" y="100" class="letter-s">S</text>
+</svg>
